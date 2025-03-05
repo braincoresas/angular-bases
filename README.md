@@ -1,4 +1,4 @@
-# Bases de Angular 04-MAR-2025
+# Bases de Angular 04-MAR-2025 UPDATED
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
 
